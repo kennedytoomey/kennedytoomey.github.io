@@ -1,6 +1,6 @@
 ---
 title: "Applying Football's Defense in Depth Principles to Application Security "
-date: 2025-09-04 12:00:00 -0400  
+date: 2025-09-04 08:00:00 -0400  
 description: Breaking down football to teach application security concepts.  
 tags: ['conference_talk_recap', 'application_security_basics']
 ---
