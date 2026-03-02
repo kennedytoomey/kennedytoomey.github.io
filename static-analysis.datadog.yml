@@ -1,7 +1,5 @@
 schema-version: v1
 rulesets:
-schema-version: v1
-rulesets:
   - apex-code-style
   - apex-security
   - csharp-best-practices
