@@ -1,6 +1,6 @@
 ---
-# the default layout is 'page'
-icon: fas fa-portrait
+title: Portfolio
+layout: page
 order: 5
 ---
 
@@ -10,7 +10,7 @@ I keep a dedicated repository for each talk, complete with slides, resources, an
 * [BSidesSF](https://github.com/kennedytoomey/bsidessf2025)
 * [SunSecCon](https://github.com/kennedytoomey/sunseccon2025)
 * [The Diana Initiative](https://github.com/kennedytoomey/thedianainitiative2025)
-* BSidesRoanoke 
+* BSidesRoanoke
 
 ## Livestreams and Podcasts
 * [AWS Security LIVE!](https://www.youtube.com/watch?v=8zfidfpXUN0)
