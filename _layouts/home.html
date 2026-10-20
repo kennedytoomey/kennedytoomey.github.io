@@ -1,6 +1,22 @@
 ---
 layout: default
 ---
+{% if site.data.talks.size > 0 %}
+<section class="talks-list">
+  <h2 class="section-heading">Recent Talks</h2>
+  {% for talk in site.data.talks %}
+  <article class="post-card">
+    <h2><a href="{{ talk.url }}">{{ talk.title }}</a></h2>
+    <div class="post-meta">
+      <span>{{ talk.event }}</span>
+    </div>
+    <p class="post-excerpt">{{ talk.description }}</p>
+    <a href="{{ talk.url }}" class="read-more">View talk &rarr;</a>
+  </article>
+  {% endfor %}
+</section>
+<h2 class="section-heading">Posts</h2>
+{% endif %}
 <div class="posts-list">
   {% for post in site.posts %}
   <article class="post-card">

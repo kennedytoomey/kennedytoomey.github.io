@@ -6,7 +6,10 @@ order: 5
 
 ## Conference Talks
 I keep a dedicated repository for each talk, complete with slides, resources, and recordings when available. Check them out below:
-* [DevOpsDays Philadephia 2025](https://kennedytoomey.github.io/actionable-alerting-guide/) with [Max Saltonstall](https://linkedin.com/in/maxsaltonstall)
+* [BSides NYC 2026](https://kennedytoomey.github.io/bsidesnyc-2026/) with [Max Saltonstall](https://linkedin.com/in/maxsaltonstall)
+* [RSA 2026](https://static.rainfocus.com/rsac/us26/sess/1755889386192001QRA0/finalwebsite/2026_USA26_APP-R03_01_Rethinking-Vulnerability-Backlogs-When-CVSS-Scores-Don%E2%80%99t-Match-Reality_1774134389513001Mc0W.pdf)
+* [BSidesSF 2026](https://kennedytoomey.github.io/bsidessf2026/)
+* [DevOpsDays Philadelphia 2025](https://kennedytoomey.github.io/actionable-alerting-guide/) with [Max Saltonstall](https://linkedin.com/in/maxsaltonstall)
 * [SCaLE 22x](https://github.com/kennedytoomey/scale22x)
 * [BSidesSF 2025](https://github.com/kennedytoomey/bsidessf2025)
 * [SunSecCon 2025](https://github.com/kennedytoomey/sunseccon2025)

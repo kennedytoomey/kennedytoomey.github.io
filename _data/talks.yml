@@ -1,0 +1,13 @@
+# Featured talks shown on the home page, newest first
+- title: "Rethinking CI/CD Security in the Age of GitHub Actions"
+  event: BSides NYC 2026
+  url: https://kennedytoomey.github.io/bsidesnyc-2026/
+  description: Three real attacks that used GitHub workflows as a route to breach, and three fixes that work within GitHub. Presented with Max Saltonstall.
+- title: "Rethinking Vulnerability Backlogs: When CVSS Scores Don't Match Reality"
+  event: RSA 2026
+  url: https://static.rainfocus.com/rsac/us26/sess/1755889386192001QRA0/finalwebsite/2026_USA26_APP-R03_01_Rethinking-Vulnerability-Backlogs-When-CVSS-Scores-Don%E2%80%99t-Match-Reality_1774134389513001Mc0W.pdf
+  description: Why CVSS scores alone often don't reflect real risk, and how to rethink prioritization of an ever-growing vulnerability backlog.
+- title: "When the Supply Chain Hits a Sour Note"
+  event: BSidesSF 2026
+  url: https://kennedytoomey.github.io/bsidessf2026/
+  description: Real supply chain attacks, how to respond under pressure across teams, and preventive measures that limit damage.

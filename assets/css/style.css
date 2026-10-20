@@ -252,6 +252,20 @@ img {
   text-decoration: underline;
 }
 
+/* ===== Talks (Homepage) ===== */
+.talks-list {
+  margin-bottom: 2.5rem;
+}
+
+.section-heading {
+  font-size: 1rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  margin-bottom: 1rem;
+}
+
 /* ===== Post Header ===== */
 .post-header {
   margin-bottom: 2.5rem;
